@@ -1,0 +1,9 @@
+D:\ReposNotReady\SchoolProject\BasMetricsProductor\bin\Debug\netcoreapp3.1\BasMetricsProductor.deps.json
+D:\ReposNotReady\SchoolProject\BasMetricsProductor\bin\Debug\netcoreapp3.1\BasMetricsProductor.dll
+D:\ReposNotReady\SchoolProject\BasMetricsProductor\bin\Debug\netcoreapp3.1\BasMetricsProductor.pdb
+D:\ReposNotReady\SchoolProject\BasMetricsProductor\obj\Debug\netcoreapp3.1\BasMetricsProductor.csprojAssemblyReference.cache
+D:\ReposNotReady\SchoolProject\BasMetricsProductor\obj\Debug\netcoreapp3.1\BasMetricsProductor.AssemblyInfoInputs.cache
+D:\ReposNotReady\SchoolProject\BasMetricsProductor\obj\Debug\netcoreapp3.1\BasMetricsProductor.AssemblyInfo.cs
+D:\ReposNotReady\SchoolProject\BasMetricsProductor\obj\Debug\netcoreapp3.1\BasMetricsProductor.csproj.CoreCompileInputs.cache
+D:\ReposNotReady\SchoolProject\BasMetricsProductor\obj\Debug\netcoreapp3.1\BasMetricsProductor.dll
+D:\ReposNotReady\SchoolProject\BasMetricsProductor\obj\Debug\netcoreapp3.1\BasMetricsProductor.pdb

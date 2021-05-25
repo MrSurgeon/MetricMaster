@@ -1,0 +1,13 @@
+D:\ReposNotReady\SchoolProject\MyFileManager\bin\Debug\netcoreapp3.1\MyFileManager.exe
+D:\ReposNotReady\SchoolProject\MyFileManager\bin\Debug\netcoreapp3.1\MyFileManager.deps.json
+D:\ReposNotReady\SchoolProject\MyFileManager\bin\Debug\netcoreapp3.1\MyFileManager.runtimeconfig.json
+D:\ReposNotReady\SchoolProject\MyFileManager\bin\Debug\netcoreapp3.1\MyFileManager.runtimeconfig.dev.json
+D:\ReposNotReady\SchoolProject\MyFileManager\bin\Debug\netcoreapp3.1\MyFileManager.dll
+D:\ReposNotReady\SchoolProject\MyFileManager\bin\Debug\netcoreapp3.1\MyFileManager.pdb
+D:\ReposNotReady\SchoolProject\MyFileManager\obj\Debug\netcoreapp3.1\MyFileManager.csprojAssemblyReference.cache
+D:\ReposNotReady\SchoolProject\MyFileManager\obj\Debug\netcoreapp3.1\MyFileManager.AssemblyInfoInputs.cache
+D:\ReposNotReady\SchoolProject\MyFileManager\obj\Debug\netcoreapp3.1\MyFileManager.AssemblyInfo.cs
+D:\ReposNotReady\SchoolProject\MyFileManager\obj\Debug\netcoreapp3.1\MyFileManager.csproj.CoreCompileInputs.cache
+D:\ReposNotReady\SchoolProject\MyFileManager\obj\Debug\netcoreapp3.1\MyFileManager.dll
+D:\ReposNotReady\SchoolProject\MyFileManager\obj\Debug\netcoreapp3.1\MyFileManager.pdb
+D:\ReposNotReady\SchoolProject\MyFileManager\obj\Debug\netcoreapp3.1\MyFileManager.genruntimeconfig.cache
