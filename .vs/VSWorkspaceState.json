@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Client"
   ],
-  "SelectedNode": "\\SchoolProject.sln",
+  "SelectedNode": "\\Client\\index.html",
   "PreviewInSolutionExplorer": false
 }

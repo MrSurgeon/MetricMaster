@@ -53,7 +53,6 @@ def get_rawMetrics():
     pathList.clear()
     return resultRAW
 
-
 @app.errorhandler(404)
 def not_found(error):
     return make_response(jsonify({'HTTP 404 Error': 'The content you looks for does not exist. Please check your request.'}), 404)

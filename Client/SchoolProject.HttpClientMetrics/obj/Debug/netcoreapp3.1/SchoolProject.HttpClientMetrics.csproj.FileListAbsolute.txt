@@ -1,9 +1,0 @@
-D:\ReposNotReady\SchoolProject\SchoolProject.HttpClientMetrics\bin\Debug\netcoreapp3.1\SchoolProject.HttpClientMetrics.deps.json
-D:\ReposNotReady\SchoolProject\SchoolProject.HttpClientMetrics\bin\Debug\netcoreapp3.1\SchoolProject.HttpClientMetrics.dll
-D:\ReposNotReady\SchoolProject\SchoolProject.HttpClientMetrics\bin\Debug\netcoreapp3.1\SchoolProject.HttpClientMetrics.pdb
-D:\ReposNotReady\SchoolProject\SchoolProject.HttpClientMetrics\obj\Debug\netcoreapp3.1\SchoolProject.HttpClientMetrics.csprojAssemblyReference.cache
-D:\ReposNotReady\SchoolProject\SchoolProject.HttpClientMetrics\obj\Debug\netcoreapp3.1\SchoolProject.HttpClientMetrics.AssemblyInfoInputs.cache
-D:\ReposNotReady\SchoolProject\SchoolProject.HttpClientMetrics\obj\Debug\netcoreapp3.1\SchoolProject.HttpClientMetrics.AssemblyInfo.cs
-D:\ReposNotReady\SchoolProject\SchoolProject.HttpClientMetrics\obj\Debug\netcoreapp3.1\SchoolProject.HttpClientMetrics.csproj.CoreCompileInputs.cache
-D:\ReposNotReady\SchoolProject\SchoolProject.HttpClientMetrics\obj\Debug\netcoreapp3.1\SchoolProject.HttpClientMetrics.dll
-D:\ReposNotReady\SchoolProject\SchoolProject.HttpClientMetrics\obj\Debug\netcoreapp3.1\SchoolProject.HttpClientMetrics.pdb
