@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gencg\\source\\repos\\MetricMaster\\SchoolProject.HttpClientMetrics\\SchoolProject.HttpClientMetrics.csproj": {}
+    "C:\\Users\\gencg\\OneDrive\\Masaüstü\\MetricMaster\\SchoolProject.HttpClientMetrics\\SchoolProject.HttpClientMetrics.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gencg\\source\\repos\\MetricMaster\\SchoolProject.HttpClientMetrics\\SchoolProject.HttpClientMetrics.csproj": {
+    "C:\\Users\\gencg\\OneDrive\\Masaüstü\\MetricMaster\\SchoolProject.HttpClientMetrics\\SchoolProject.HttpClientMetrics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gencg\\source\\repos\\MetricMaster\\SchoolProject.HttpClientMetrics\\SchoolProject.HttpClientMetrics.csproj",
+        "projectUniqueName": "C:\\Users\\gencg\\OneDrive\\Masaüstü\\MetricMaster\\SchoolProject.HttpClientMetrics\\SchoolProject.HttpClientMetrics.csproj",
         "projectName": "SchoolProject.HttpClientMetrics",
-        "projectPath": "C:\\Users\\gencg\\source\\repos\\MetricMaster\\SchoolProject.HttpClientMetrics\\SchoolProject.HttpClientMetrics.csproj",
+        "projectPath": "C:\\Users\\gencg\\OneDrive\\Masaüstü\\MetricMaster\\SchoolProject.HttpClientMetrics\\SchoolProject.HttpClientMetrics.csproj",
         "packagesPath": "C:\\Users\\gencg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gencg\\source\\repos\\MetricMaster\\SchoolProject.HttpClientMetrics\\obj\\",
+        "outputPath": "C:\\Users\\gencg\\OneDrive\\Masaüstü\\MetricMaster\\SchoolProject.HttpClientMetrics\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

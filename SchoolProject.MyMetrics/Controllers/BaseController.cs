@@ -7,7 +7,7 @@ using SchoolProject.MyMetrics.HttpClientServices;
 
 namespace SchoolProject.MyMetrics.Controllers
 {
-    public class BaseController : Controller
+    public class BaseController : ControllerBase
     {
         
     }

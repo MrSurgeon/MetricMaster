@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MQY6bHdO4JbJU2J7VsENUVOYjKsd8c0Acazg1jxHxB2Nw7Tjs5CznDjav9ACPWSPhiNGiYlH7qWj/2bATqUOLg==",
+  "dgSpecHash": "AoHoV2ubkWQOQfCP4fnDN67Wphuf1YKWhzIH5Fi5Ac3aJo9I8sGFSkoLDzjKCxygdwHmU46xX5Idhk/mT8vbUw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gencg\\source\\repos\\MetricMaster\\SchoolProject.MyMetrics\\SchoolProject.MyMetrics.csproj",
+  "projectFilePath": "C:\\Users\\gencg\\OneDrive\\Masaüstü\\MetricMaster\\SchoolProject.MyMetrics\\SchoolProject.MyMetrics.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gencg\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\gencg\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
