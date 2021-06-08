@@ -12,14 +12,20 @@
         <span class="navbar-toggler-bar"></span>
       </button>
       <div class="collapse navbar-collapse">
-        <ul class="navbar-nav ml-auto">
+        <ul class="navbar-nav mr-auto">
           <li class="nav-item">
             <a href="#" class="nav-link">
-              <i class="ti-panel"></i>
-              <p>Stats</p>
+              <i class="ti-bag"></i>
+              <p>File Management</p>
             </a>
           </li>
-          <drop-down class="nav-item"
+           <li class="nav-item">
+            <a href="#" class="nav-link">
+              <i class="ti-bar-chart-alt"></i>
+              <p>Project Metric Details</p>
+            </a>
+          </li>
+          <!-- <drop-down class="nav-item"
                      title="5 Notifications"
                      title-classes="nav-link"
                      icon="ti-bell">
@@ -28,15 +34,15 @@
             <a class="dropdown-item" href="#">Notification 3</a>
             <a class="dropdown-item" href="#">Notification 4</a>
             <a class="dropdown-item" href="#">Another notification</a>
-          </drop-down>
-          <li class="nav-item">
+          </drop-down> -->
+          <!-- <li class="nav-item">
             <a href="#" class="nav-link">
               <i class="ti-settings"></i>
               <p>
                 Settings
               </p>
             </a>
-          </li>
+          </li> -->
         </ul>
       </div>
     </div></nav>

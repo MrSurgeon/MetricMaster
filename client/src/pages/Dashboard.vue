@@ -38,7 +38,7 @@
         </chart-card>
       </div>
 
-      <div class="col-md-6 col-12">
+      <!-- <div class="col-md-6 col-12">
         <chart-card title="Email Statistics"
                     sub-title="Last campaign performance"
                     :chart-data="preferencesChart.data"
@@ -51,9 +51,9 @@
             <i class="fa fa-circle text-warning"></i> Unsubscribe
           </div>
         </chart-card>
-      </div>
+      </div> -->
 
-      <div class="col-md-6 col-12">
+      <!-- <div class="col-md-6 col-12">
         <chart-card title="2015 Sales"
                     sub-title="All products including Taxes"
                     :chart-data="activityChart.data"
@@ -66,7 +66,7 @@
             <i class="fa fa-circle text-warning"></i> BMW 5 Series
           </div>
         </chart-card>
-      </div>
+      </div> -->
 
     </div>
 

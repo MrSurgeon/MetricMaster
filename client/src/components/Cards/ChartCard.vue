@@ -51,7 +51,7 @@ export default {
     },
     chartType: {
       type: String,
-      default: "Line" // Line | Pie | Bar
+      default: "Bar" // Line | Pie | Bar
     },
     chartOptions: {
       type: Object,
